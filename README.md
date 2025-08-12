@@ -70,10 +70,10 @@ Você pode executar no **Google Colab** ou localmente.
 3. Ajuste os caminhos de leitura dos arquivos, se necessário.
 
 ## 📌 Próximos Passos e Melhorias
-Testar outros algoritmos (XGBoost, LightGBM, SVM).
-Implementar ajuste de hiperparâmetros (hyperparameter tuning).
-Criar dashboard interativo para acompanhamento dos indicadores.
-Avaliar impacto de campanhas específicas de retenção na taxa de churn.
+- Testar outros algoritmos (XGBoost, LightGBM, SVM).
+- Implementar ajuste de hiperparâmetros (hyperparameter tuning).
+- Criar dashboard interativo para acompanhamento dos indicadores.
+- Avaliar impacto de campanhas específicas de retenção na taxa de churn.
 
 ---
 
